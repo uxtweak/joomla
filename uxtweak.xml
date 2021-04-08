@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="3.4" type="plugin" group="system" method="upgrade">
+	<name>Uxtweak</name>
+	<author>EliteSolutions</author>
+	<creationDate>March 2021</creationDate>
+	<copyright>Copyright (C) 2021. All rights reserved.</copyright>
+	<license>http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL</license>
+	<authorEmail>info@uxtweak.com</authorEmail>
+	<authorUrl>www.uxtweak.com/</authorUrl>
+	<version>1.0.0</version>
+	<description>Powerful research tools for improving usability of web sites and apps, from prototypes to production.</description>
+	<files>
+		<filename plugin="uxtweak">uxtweak.php</filename>
+		<filename>index.html</filename>
+	</files>
+	<config>
+		<fields name="params">
+			<fieldset name="basic">
+				<field name="uxtweak_code" type="textarea"
+					description="Uxtweak Setting Script"
+					label="Uxtweak Setting Script"
+					rows="5" cols="20"
+					filter="raw">
+				</field>
+			</fieldset>
+
+		</fields>
+	</config>
+</extension>
