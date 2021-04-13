@@ -1,0 +1,24 @@
+
+<?xml version="1.0" encoding="utf-8"?>
+<updates>
+  <update>
+    <name>Uxtweak Updates</name>
+    <description>Uxtweak Updates</description>
+    <element>uxtweak</element>
+    <type>plugin</type>
+    <version>1.0</version>
+    <infourl title="Uxtweak 1.0">https://github.com/uxtweak/joomla</infourl>
+    <downloads>
+      <downloadurl type="full" format="zip">https://github.com/uxtweak/joomla/raw/main/uxtweak.zip</downloadurl>
+    </downloads>
+    <tags>
+      <tag>stable</tag>
+    </tags>
+    <maintainer>Uxtweak</maintainer>
+    <maintainerurl>https://www.uxtweak.com/</maintainerurl>
+    <section>Updates</section>
+    <targetplatform name="joomla" version="1.0" />
+    <client_id>0</client_id>
+    <folder>system</folder>
+  </update>
+</updates>
