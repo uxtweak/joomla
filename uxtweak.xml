@@ -26,4 +26,7 @@
 
 		</fields>
 	</config>
+	<updateservers>
+    <server type="extension" priority="1" name="Uxtweak Updates">https://raw.githubusercontent.com/uxtweak/joomla/main/extension.xml</server>
+ </updateservers>
 </extension>
