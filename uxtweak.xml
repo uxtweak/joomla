@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <extension version="3.4" type="plugin" group="system" method="upgrade">
-	<name>Uxtweak</name>
+	<name>System - Uxtweak</name>
 	<author>EliteSolutions</author>
 	<creationDate>March 2021</creationDate>
 	<copyright>Copyright (C) 2021. All rights reserved.</copyright>
